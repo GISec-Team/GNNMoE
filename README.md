@@ -1,8 +1,8 @@
 # Mixture of Experts Meets Decoupled Message Passing: Towards General and Adaptive Node Classification
 ### 1 Overview of Model Architecture and Performance
 
-![img.png](img.png)
-![img_1.png](img_1.png)
+![img.png](imgs/model.png)
+![img_1.png](imgs/result.png)
 ### 2 Python environment setup with Conda
 ```bash
   conda env create -f requirement.yaml
