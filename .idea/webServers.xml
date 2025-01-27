@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6d40ac52-1ad6-4cd6-8e12-eb310c4bb72e" name="4A100">
+        <fileTransfer rootFolder="/public/chenxuanze" accessType="SFTP" host="192.168.66.148" port="30905" sshConfigId="a28214f3-14f8-46c6-bed8-2634467a04ef" sshConfig="chenxuanze@192.168.66.148:30905 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7b95ca0b-8b71-4e0b-9830-a6b8488909a9" name="8V100">
+        <fileTransfer rootFolder="/public/chenxuanze" accessType="SFTP" host="192.168.66.36" port="30905" sshConfigId="6a3e6698-f23a-4fd6-a4d3-2fbaf673e851" sshConfig="chenxuanze@192.168.66.36:30905 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="580709c4-4ce8-43ff-8e5d-1cd9cabfa7f3" name="滨江_集群">
+        <fileTransfer rootFolder="/public/home/cxz_221123120197" accessType="SFTP" host="192.168.66.121" port="30907" sshConfigId="7a93ccae-bfb9-4eb3-8bb4-d09398355807" sshConfig="cxz_221123120197@192.168.66.121:30907 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
