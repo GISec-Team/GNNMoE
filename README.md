@@ -37,11 +37,15 @@ For all datasets, we employ 10 different random seeds to ensure consistent data 
 ## Reference
 ````bash
 @inproceedings{GNNMoE,
-  author={Chen, Xuanze and Zhou, Jiajun and Yu, Shanqing and Xuan, Qi},
-  title={Mixture of Experts Meets Decoupled Message Passing: Towards General and Adaptive Node Classification}, 
-  booktitle = {Companion Proceedings of the ACM Web Conference 2025},
-  year={2025},
-  series = {WWW '25},
-  doi={10.1145/3701716.3715462}
+author = {Chen, Xuanze and Zhou, Jiajun and Yu, Shanqing and Xuan, Qi},
+title = {Mixture of Experts Meets Decoupled Message Passing: Towards General and Adaptive Node Classification},
+year = {2025},
+booktitle = {Companion Proceedings of the ACM on Web Conference 2025},
+pages = {907–910},
+numpages = {4},
+series = {WWW '25},
+publisher = {Association for Computing Machinery},
+doi = {10.1145/3701716.3715462},
+location = {Sydney NSW, Australia}
 }
 ````
